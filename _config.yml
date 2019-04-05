@@ -1,0 +1,12 @@
+title: Justin Heck
+author: Justin Heck
+email: jtheck@umich.edu
+description: > # this means to ignore newlines until "baseurl:"
+  Political Science PhD Candidate at the University of Michigan
+# social links
+twitter_username: justinheck
+github_username:  justinheck
+
+theme: jekyll-theme-minimal
+
+show_excerpts: true # set to false to remove excerpts on the homepage
